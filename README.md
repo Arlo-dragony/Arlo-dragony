@@ -8,7 +8,7 @@
 
 
 <p align="center">
-    <a href="https://ibb.co/N6NMDtn"><img src="https://i.imgur.com/jQh5iIT.jpeg" alt="01" border="0" /></a>
+    <a href="https://ibb.co/N6NMDtn"><img src="https://i.imgur.com/Os17GL5.jpeg" alt="01" border="0" /></a>
 </p>
 
 
