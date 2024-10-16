@@ -64,6 +64,6 @@
 </a>
 </li>
 
-Credit: [ARLODRAGON](https://github.com/kindragon)
+Credit: [ARLODRAGON](https://github.com/kindragony)
 
 © Arlodragon 
